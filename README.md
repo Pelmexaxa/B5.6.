@@ -11,4 +11,4 @@ B5.6. Итоговое практическое задание
 
 Для работы необходимо установить библиотеку keyboard
 
-Установка - Win+R -> cmd -> pip intall keyboard
+Установка - Win+R -> cmd -> pip install keyboard
