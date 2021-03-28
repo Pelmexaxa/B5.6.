@@ -6,7 +6,6 @@ class Game():
     def __init__(self):
         self.turn = 1
         self.mass = [[' ', ' ', ' '], [' ', ' ', ' '], [' ', ' ', ' ']]
-        self.main_menu()
 
     def main_menu(self):
         print('')
@@ -151,4 +150,5 @@ class Game():
     keyboard.wait('esc')
 
 
-Game()
+start = Game()
+start.main_menu()
